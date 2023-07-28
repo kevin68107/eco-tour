@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import squareVid from '../assets/squareVid.mp4'
 import { AiOutlineSearch } from 'react-icons/ai'
 
